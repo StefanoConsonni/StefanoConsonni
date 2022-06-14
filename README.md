@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **two side projects**
 
-- 🌱 I’m currently learning **anything!**
+- 🌱 I’m currently learning **Express.js!**
 
 - 👯 I’m looking to collaborate on **something amazing**
 
 - 👨‍💻 Some of my projects are available at [link (coming soon)](link (coming soon))
 
-- ⚡ Fun fact **I think I am funny 🤣**
+- ⚡ Fun fact: **I think I am funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
