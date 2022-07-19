@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 I graduated from a coding bootcamp and I've been coding for the last 15 months. I began with HTML, CSS and Javascript, and then I started learning and developing projects in React, Node.js, Express.js and MongoDB. I also developed a project in a team of five using the php framework Laravel and MySQL.
 
