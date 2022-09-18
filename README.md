@@ -7,7 +7,7 @@ I graduated from a coding bootcamp and I've been coding for the last 15 months. 
 * 🖥️  See my portfolio at [Link (coming soon)](http://github.com/StefanoConsonni)
 * ✉️  You can contact me at [stefano.consonni@icloud.com](mailto:stefano.consonni@icloud.com)
 * 🚀  I'm currently deploying an [Express.js app](http://we-love-camps.herokuapp.com/) with ejs templating, user authentication, map integration, image upload and few other features
-* 🧠  I'm also learning React and Redux
+* 🧠  I'm also learning React and Firebase
 * 🤝  I'm open to collaborate on something amazing
 
 ### Skills
