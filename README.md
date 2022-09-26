@@ -4,7 +4,7 @@
 I graduated from a coding bootcamp and I've been coding for the last 15 months. I began with HTML, CSS and Javascript, and then I started learning and developing projects in React, Node.js, Express.js and MongoDB. I also developed an ads web application in a team of five people using the php framework Laravel and MySQL.
 
 * 🌍  I'm based in Toulouse, France
-* 🖥️  See my portfolio at [Link (coming soon)](http://github.com/StefanoConsonni)
+* 🖥️  See my portfolio at [https://stefanoconsonni.netlify.app/](https://stefanoconsonni.netlify.app/)
 * ✉️  You can contact me at [stefano.consonni@icloud.com](mailto:stefano.consonni@icloud.com)
 * 🚀  I'm currently deploying an [Express.js app](http://we-love-camps.herokuapp.com/) with ejs templating, user authentication, map integration, image upload and few other features
 * 🧠  I'm also learning React and Firebase
