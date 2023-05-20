@@ -8,7 +8,7 @@ I'm naturally curious, I love to learn, and pick up skills quickly. I've been co
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://stefanoconsonni.netlify.app/](https://stefanoconsonni.netlify.app/)
 * ✉️  You can contact me at [stefano.consonni@icloud.com](mailto:stefano.consonni@icloud.com)
-* 🚀  I'm currently deploying an [Express.js app](http://we-love-camps.herokuapp.com/) with ejs templating, user authentication, map integration, image upload and few other features
+* 🚀  I'm currently deploying an [Express.js app](https://welovecamps.cyclic.app/) with ejs templating, user authentication, map integration, image upload and few other features
 * 🧠  I'm also learning Next.js and Node.js
 * 🤝  I'm open to collaborate on something amazing
 
