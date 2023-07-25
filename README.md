@@ -8,7 +8,6 @@ I'm naturally curious, I love to learn, and pick up skills quickly. I've been co
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://stefanoconsonni.netlify.app/](https://stefanoconsonni.netlify.app/)
 * ✉️  You can contact me at [stefano.consonni@icloud.com](mailto:stefano.consonni@icloud.com)
-* 🧠  I'm also learning Next.js and Node.js
 * 🤝  I'm open to collaborate on something amazing
 
 ### Skills
