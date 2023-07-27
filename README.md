@@ -3,7 +3,7 @@
 
 Hello! My name is Stefano and I enjoy creating things that live on the internet. My interest in web development started back in 2014 when I decided to try creating my first web page — turns out hacking together a few headers, paragraphs, images and buttons taught me a lot about HTML & CSS!
 Fast-forward to today, I'm a web developer specializing in building accessible user interfaces and exceptional digital experiences.
-I'm naturally curious, I love to learn, and pick up skills quickly. I've been coding for two years, and it has been one of the most fulfilling and engaging experiences of my life! I see everything I do as a great opportunity for authentic self-expression.
+I'm naturally curious, I love to learn, and pick up skills quickly. I've been coding for three years, and it has been one of the most fulfilling and engaging experiences of my life! I see everything I do as a great opportunity for authentic self-expression.
 
 * 🌍  I'm based in Toulouse, France
 * 🖥️  See my portfolio at [https://stefanoconsonni.netlify.app/](https://stefanoconsonni.netlify.app/)
