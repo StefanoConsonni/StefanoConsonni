@@ -5,7 +5,7 @@ Hello! My name is Stefano and I enjoy creating things that live on the internet.
 Fast-forward to today, I'm a web developer specializing in building accessible user interfaces and exceptional digital experiences.
 I'm naturally curious, I love to learn, and pick up skills quickly. Coding has been one of the most fulfilling and engaging experiences of my life! I see everything I do as a great opportunity for authentic self-expression.
 
-* 🌍  I'm based in Toulouse, France
+* 🌍  I'm based in Monza, Italy
 * 🖥️  See my portfolio at [https://stefanoconsonni.netlify.app/](https://stefanoconsonni.netlify.app/)
 * ✉️  You can contact me at [stefano.consonni@icloud.com](mailto:stefano.consonni@icloud.com)
 * 🤝  I'm open to collaborate on something amazing
